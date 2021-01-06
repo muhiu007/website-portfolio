@@ -65,3 +65,17 @@ section{
     padding-left: 2%;
     float: left;
 }
+.exppart{
+    box-shadow: 10px 10px 40px rgb(1, 183, 255);
+    border-radius: 10px;
+    height: 60%;
+}
+.thirdpart{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+footer{
+    color: blue;
+    font-weight: 700;
+    text-align: center;
+}
