@@ -24,3 +24,11 @@ body{
 section{
    height: 500px;
 }
+#hireme{
+    text-decoration: none;
+    background-color: rgba(177, 31, 177, 0.788);
+    color: rgb(255, 4, 4);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size:800;
+}
