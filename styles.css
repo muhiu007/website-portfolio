@@ -7,3 +7,12 @@ body{
 .name{
     color: orangered;
 }
+.oned{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left;
+}
+.oned img{
+    width:100%;
+}
