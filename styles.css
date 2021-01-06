@@ -31,4 +31,37 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
     font-size:800;
+    background-image: linear-gradient(rgb(120, 39, 167) pink);
+}
+.twod img{
+    width: 100%;
+}
+.twod{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.secondhalf{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#followme{
+    text-decoration: none;
+    background-color: rgba(31, 77, 177, 0.788);
+    color: rgb(255, 4, 4);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size:800;
+    background-image: linear-gradient(rgb(39, 95, 167) rgb(11, 29, 88));
+}
+.orangehighlight{
+    color: orangered;
+}
+.exppart{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
 }
