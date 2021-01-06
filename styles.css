@@ -3,6 +3,7 @@ h1{
 }
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 .name{
     color: orangered;
@@ -15,4 +16,11 @@ body{
 }
 .oned img{
     width:100%;
+}
+.firsthalf{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+   height: 500px;
 }
