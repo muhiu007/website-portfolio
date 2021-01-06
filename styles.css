@@ -1,16 +1,9 @@
 h1{
     font-size: 50px;
 }
-namecolor{
-    font-size: 60px;
-    color:rgb(1, 86, 245);
+body{
+    font-family: 'Roboto', sans-serif;
 }
-.half{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-}
-.half img{
-    width: 100%;
+.name{
+    color: orangered;
 }
